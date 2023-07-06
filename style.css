@@ -1,0 +1,33 @@
+.large {
+    display: flex;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    justify-content: center;
+}
+
+.conteiner{
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    font-size: 22px;
+    text-align: center;
+    margin: 30px;
+    color: white;
+}
+
+html {
+    background-color: black;
+}
+
+body{
+   background: url(capa.jpg);
+   margin: 0;
+   padding: 0;
+}
+
+.button{
+    text-align: center;
+}
